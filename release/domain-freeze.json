@@ -1,0 +1,16 @@
+{
+  "baseline": "PASS 6 hardened domain/data freeze",
+  "sha256": {
+    "data/demo.ts": "3d6e3ecd8f6905e890fd103c75d3ae4ea9904fca86e50476cd67a4aa8f00416e",
+    "domain/candidateStory.ts": "194bb87419d790a76be68c28db4eedb7b4c6972c0c3a428c0ea4d4dbca4966d7",
+    "domain/delivery.ts": "a96c1cb395e78a04eb5a5297e0a7476b814b53ca9682ccae0e76768c531ce968",
+    "domain/demoEngine.ts": "e9841dd0fda29bca4a46509b732bd54cff44afdf4851afcc9099735a8541580b",
+    "domain/economics.ts": "f0a10e8273c36b19c14a2484f25465573df1c4e6a04b4539ab9331213472ba5a",
+    "domain/executive.ts": "5e88261f5e3872ae5d5addcf786890b0182e6183a2400de074e74d97bc42be55",
+    "domain/requirements.ts": "1011bada63b5cb7e58d4251e1a277ce24c2aa2780b407c7d808a669d65d2d563",
+    "domain/scenario.ts": "3d390d590a10f995ce8e29c7493e004a6c92d61d3436b00865a2764f3cae0659",
+    "domain/scopeControl.ts": "a0d1b7dcfa5f12ae7f2a3fe0fe6f3ee53009e9c0eccdb1b9fb8ac94913bbdfab",
+    "domain/types.ts": "d224b088080fc9cbdfd7fc082bba159e24596d80467bfefe5a57ed9a7f6a70de",
+    "domain/viewModel.ts": "18264f19162e932cf524b631ea4a77d255b7440f861f640c76e3611a0085e696"
+  }
+}
